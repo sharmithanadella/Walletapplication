@@ -1,0 +1,47 @@
+Tax
+
+ 
+
+<html>
+
+<head>
+
+<title>tax bill</title>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center><br><br>
+
+<center><img src="No-plan-impose-Property-Tax-Union-Territory-of-JK-LG-Manoj-Sinha-opposition-Taxscan.jpg"></center><br><br>
+
+<center><form>
+
+Tax
+
+<select id="bill" name="bill">
+
+<option value="Water Tax">Water Tax</option>
+
+<option value="Corporation Tax ">Corporation Tax</option>
+
+</select><br><br>
+
+Service Number
+
+<input type="text" name="Service Number"><br><br>
+
+Amount
+
+<input type="text" name="Amount"><br><br><br><br>
+
+<input type="button" name="Pay Options" value="Pay Options">&nbsp&nbsp&nbsp
+
+<input type="button" name="Cancel" value="Cancel">
+
+</form></center>
+
+</body>
+
+</html>
