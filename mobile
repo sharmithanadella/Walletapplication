@@ -1,0 +1,54 @@
+Mobile
+
+ 
+
+<html>
+
+<head>
+
+<title>Mobile bill</title>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center><br><br>
+
+<center><img src="mobile-prepaid-recharge-services-250x250.png"></center><br><br><br>
+
+<center><form>
+
+Operator
+
+<select id="bill" name="bill">
+
+<option value="Airtel">Airtel</option>
+
+<option value="Jio">Jio</option>
+
+<option value="Idea">Idea</option>
+
+<option value="BSNL">BSNL</option>
+
+<option value="Vodaphone">Vodaphone</option>
+
+</select><br><br>
+
+Mobile Number
+
+<input type="text" name="Mobile Number"><br><br>
+
+Amount
+
+<input type="text" name="Amount"><br><br><br><br>
+
+<input type="button" name="Pay Options" value="Pay Options">&nbsp&nbsp&nbsp
+
+<input type="button" name="Cancel" value="Cancel">
+
+</form></center>
+
+</body>
+
+</html>
+
