@@ -1,0 +1,24 @@
+E-mail:
+
+<input type="text" name="E-mail"><br<br><br><br><br>
+
+Select the Bank:
+
+<select id="Select Bank" name="Select Bank">
+
+<option value="HDFC">HDFC</option>
+
+<option value="SBI">SBI</option>
+
+<option value="IOB">IOB</option>
+
+<option value="ICICI">ICICI</option>
+
+<option value="AXIS">AXIS</option>
+
+</select><br><br>
+
+Account Number:
+
+<input type="text" name="Account Number"><br><br><br>
+
