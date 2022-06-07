@@ -1,0 +1,33 @@
+Add valet
+
+ 
+
+<html>
+
+<head>
+
+<title>Add wallet</title>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center><br><br>
+
+<center><img src="300.jpg"></center>
+
+<center><form>
+
+<input type="text" name="Enter PIN" value="Enter PIN"><br<br><br><br><br>
+
+<input type="text" name="Amount" value="Amount"><br><br><br><br>
+
+<input type="button" name="Submit" value="Submit">&nbsp&nbsp&nbsp
+
+<input type="button" name="Cancel" value="Cancel">
+
+</form></center>
+
+</body>
+
+</html>
