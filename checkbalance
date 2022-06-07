@@ -1,0 +1,34 @@
+Check balance
+
+<html>
+
+<head>
+
+<title>check balance</title>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center><br><br>
+
+<center><h2>CHECK BALANCE</h2></center>
+
+<center><img src="digital-wallet-icon-coins-symbolize-bitcoin-other-cryptocurrency-transactions-bitcoin-wallet-icon-cryptocurrency-107143767.jpg"></center>
+
+<center><form>
+
+<input type="text" name="Enter PIN" value="Enter PIN"><br<br><br><br><br>
+
+<input type="button" name="Submit" value="Submit">&nbsp&nbsp&nbsp
+
+<input type="button" name="Cancel" value="Cancel">
+
+</form></center>
+
+</body>
+
+</html>
+
+ 
+
