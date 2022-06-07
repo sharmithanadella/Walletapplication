@@ -1,0 +1,31 @@
+Home
+
+ 
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center>
+
+<center><a href="add vallet.html">Add Wallet Points</a>&nbsp&nbsp
+
+  <a href="balance.html">Check Wallet Balance</a>&nbsp&nbsp
+
+  <a href="#">Transaction list</a>&nbsp&nbsp
+
+  <a href="payments.html">Payments</a>&nbsp&nbsp
+
+ <a href="login.html">Logout</a></center>
+
+<center><img src="bank-building-government-house-financial-office-exterior-columns-street-cityscape-banking-service-cartoon-vector-156918435.jpg"></center>
+
+</body>
+
+</html>
