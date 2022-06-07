@@ -1,0 +1,29 @@
+Payments
+
+<html>
+
+<head>
+
+<title>payments</title>
+
+</head>
+
+<body>
+
+<center><h1>WALLET APP</h1></center><br><br>
+
+<center><a href="utility.html">Pay Utility Bills</a><br><br>
+
+<a href="Mobile.html">Recharge Mobile</a><br><br>
+
+<a href="dth.html">Recharge DTH</a><br><br>
+
+<a href="tax.html">Pay Corp/Water tax</a><br><br>
+
+<a href="login.html">Logout</a><br></center>
+
+</body>
+
+</html>
+
+ 
